@@ -4,7 +4,7 @@ import OtherComponent from './OtherComponent.vue'
 
 <template>
   <p class="my-red">This should be red</p>
-	<OtherComponent />
+  <OtherComponent />
 </template>
 
 <style scoped>
